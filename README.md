@@ -1,3 +1,3 @@
 # rcat
 ## about
-An implementation of the simple Linux command 'cat' using Rust. 
+An implementation of the simple Linux command 'cat' using Rust.
